@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kmrinal
-- 👀 CTO @ Benlycos. I make networked devices do exceptional things. https://benlycos.com
+- 👀 CEO @ HaloWiFi and CTO @ Benlycos. I make networked devices do exceptional things.
 - 💞️ I’m looking to collaborate on creating distributed IoT architecture for modern homes. An architecture which scales well both in terms of numbers and the services it offers. 
 - 📫 I can be reached at kumar@benlycos.com
 
