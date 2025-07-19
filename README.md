@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @kmrinal
-- 👀 CEO @ HaloWiFi and CTO @ Benlycos. I make networked devices do exceptional things.
-- 💞️ I’m looking to collaborate on creating distributed IoT architecture for modern homes. An architecture which scales well both in terms of numbers and the services it offers. 
+## Kumar Mrinal
 
-<!---
-kmrinal/kmrinal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Founder & CEO – HaloWiFi | CTO – Benlycos\
+Cloud-native WiFi, OpenWRT, Multi-Link Bonding, Edge Routing
+
+---
+
+![HaloWiFi Logo](https://halowifi.com/assets/images/halowifi-assets/HaloWiFi-logo.png)
+
+HaloWiFi: A modern public WiFi platform designed for scale, built with dynamic orchestration, granular remote management, adaptive captive experiences, and seamless monetization, tailored for cities, mobility networks, and connected spaces. Includes a robust external API supporting authentication, session and device management, real-time telemetry, content injection, and regulatory compliance.
+
+Benlycos: Ultra-resilient edge systems with bleeding-edge multi-link bonding, sub-second link failover, low-latency routing, and multi-path resiliency – designed for high-availability networks in mission-critical environments.
+
+16+ countries, serving 3M+ users every month.
+
+---
+
+[halowifi.com](https://halowifi.com) | kumar [at] halowifi [dot] com | [linkedin.com/in/kmrinal](https://linkedin.com/in/kmrinal)
