@@ -1,6 +1,6 @@
 ## Kumar Mrinal
 
-Founder & CEO – HaloWiFi | CTO – Benlycos\
+Founder & CEO @ HaloWiFi | CTO @ Benlycos\
 Cloud-native WiFi, OpenWRT, Multi-Link Bonding, Edge Routing
 
 ---
@@ -17,7 +17,7 @@ Cloud-native WiFi, OpenWRT, Multi-Link Bonding, Edge Routing
 
 
 ---
-16+ countries, serving 3M+ users every month.
+16+ countries, serving 3M+ network users every month.
 ---
 
 [halowifi.com](https://halowifi.com) | mrinal [at] halowifi [dot] com | [linkedin.com/in/kmrinal](https://linkedin.com/in/kmrinal)
