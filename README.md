@@ -1,6 +1,7 @@
 ## Kumar Mrinal
 
-Founder & CEO @ HaloWiFi | CTO @ Benlycos\
+Founder & CEO @ HaloWiFi \
+CTO @ Benlycos\
 Cloud-native WiFi, OpenWRT, Multi-Link Bonding, Edge Routing
 
 ---
