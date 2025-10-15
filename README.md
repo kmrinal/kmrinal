@@ -12,7 +12,7 @@ Cloud-native WiFi, OpenWRT, Multi-Link Bonding, Edge Routing
 
 
 ---
-<img src="https://benlycos.com/wp-content/uploads/2023/04/cropped-cropped-4.png" alt="Benlycos Logo" width="200">
+<img src="https://horizons-cdn.hostinger.com/d9383b3a-c381-4f17-bdae-1eaf9cb50a41/656e2d8ad7e7729f54b33a0e87347f3d.png" alt="Benlycos Logo" width="200">
 
 **[Benlycos](https://benlycos.com)**: Ultra-resilient edge systems with bleeding-edge multi-link bonding, sub-second link failover, low-latency routing, and multi-path resiliency – designed for high-availability networks in mission-critical environments.
 
